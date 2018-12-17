@@ -5,5 +5,6 @@ When clicked on a specific dish, a new screen opens which shows the details of t
 
 <img src="https://github.com/mikebg95/Restaurant/blob/master/doc/WhatsApp%20Image%202018-12-05%20at%2012.09.21%20(1).jpeg" width="50%" height="50%"/>
 
-![Screenshot 2](https://github.com/mikebg95/Restaurant/blob/master/doc/WhatsApp%20Image%202018-12-05%20at%2012.09.21%20(2).jpeg)
-![Screenshot 3](https://github.com/mikebg95/Restaurant/blob/master/doc/WhatsApp%20Image%202018-12-05%20at%2012.09.21.jpeg)
+![Screenshot 1](https://github.com/mikebg95/Restaurant/blob/master/doc/restaurant1.jpg)
+![Screenshot 2](https://github.com/mikebg95/Restaurant/blob/master/doc/restaurant2.jpg)
+![Screenshot 3](https://github.com/mikebg95/Restaurant/blob/master/doc/restaurant3.jpg)
