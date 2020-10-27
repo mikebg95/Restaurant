@@ -1,6 +1,6 @@
 # Restaurant
 
-This app was made as part of the CS50 Web Track course.
+This app was made as part of the CS50 Android Track course.
 
 ### Content:
 This is a restaurant menu-app. The app downloads an API which contains certain restaurant dishes (each with characteristics like 'category', 'name', 'description', 'price' etc.). The different categories are shown on the homescreen; when clicked on one of these categories the app shows a list of dishes that fit that category.
